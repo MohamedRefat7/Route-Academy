@@ -1,0 +1,26 @@
+[
+  {
+    "name": "John",
+    "age": 30,
+    "city": "New York",
+    "country": "USA",
+    "salary": 10000,
+    "projects": ["AI Development", "Backend Development"]
+  },
+  {
+    "name": "Jane",
+    "age": 25,
+    "city": "San Francisco",
+    "country": "USA",
+    "salary": 8000,
+    "projects": ["Frontend Development"]
+  },
+  {
+    "name": "Bob",
+    "age": 35,
+    "city": "London",
+    "country": "UK",
+    "salary": 12000,
+    "projects": ["Full-Stack Development", "Mobile Development"]
+  }
+]
